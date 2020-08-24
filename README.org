@@ -1,9 +1,9 @@
 #+Title: Semantic Lattes
 #+Author: Alexandre Rademaker
 
-#+Tutorial in Portuguese: https://sanusb.blogspot.com/2020/08/atualizar-o-curriculo-em-orcidorg-com.html
-
 * About
+
+#+Tutorial in Portuguese: https://sanusb.blogspot.com/2020/08/atualizar-o-curriculo-em-orcidorg-com.html
 
 The purpose of this project is to bridging the gap between the
 Brazilian Curriculum Lattes plataform and [[http://en.wikipedia.org/wiki/Semantic_Web][Semantic Web]]
