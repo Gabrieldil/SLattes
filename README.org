@@ -1,7 +1,7 @@
-#+Tutorial in Portuguese: https://sanusb.blogspot.com/2020/08/atualizar-o-curriculo-em-orcidorg-com.html
-
 #+Title: Semantic Lattes
 #+Author: Alexandre Rademaker
+
+#+Tutorial in Portuguese: https://sanusb.blogspot.com/2020/08/atualizar-o-curriculo-em-orcidorg-com.html
 
 * About
 
