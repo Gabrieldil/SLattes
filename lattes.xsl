@@ -776,3 +776,12 @@ Mountain View, California, 94041, USA.
   </xsl:template>
 
 </xsl:stylesheet>
+pi@RpiSanUSB19:~ $ sudo su
+
+root@RpiSanUSB19:/home/pi# apt-get install bibtool bibutils xsltproc libxml2-utils
+
+root@RpiSanUSB19:/home/pi# git clone https://github.com/arademaker/SLattes
+
+root@RpiSanUSB19:/home/pi# chmod 777 SLattes/ -R
+
+root@RpiSanUSB19:/home/pi# cd SLattes/
